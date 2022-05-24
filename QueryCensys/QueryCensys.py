@@ -112,8 +112,8 @@ def QueryCensys():
 
 if(__name__ == '__main__'):
     #
-    api_id  = "e4ea7495-d112-4442-a872-842b6d2381f0"
-    api_sec = "jBNJJ5iZyIMUzouyBoGX2mE7ExjVlk1s"
+    api_id  = "<API Token>"
+    api_sec = "<Security Token>"
     #
     os.environ['CENSYS_API_ID']     = api_id
     os.environ['CENSYS_API_SECRET'] = api_sec
