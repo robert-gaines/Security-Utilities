@@ -1,0 +1,5 @@
+{
+    "abuseipdb_key" : "<AbuseIPDB Key>",
+    "shodan_key": "<Shodan Key>",
+    "virustotal_key": "<VirusTotal>"
+}
